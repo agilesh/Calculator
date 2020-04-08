@@ -1,2 +1,4 @@
-# CalculatorUsingSwitch
-A simple java calculator using switch case
+# Calculator
+
+A simple java calculator using various methods
+
